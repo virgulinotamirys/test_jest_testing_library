@@ -1,0 +1,15 @@
+Curso react js: criar teste com jest e testing library
+
+1º Conhecendo testes no front-end
+- Foi realizada a preparação do ambiente a partir de um projeto piloto chamado Bytebank.
+- Os testes serão realizados neste aplicação de banco digital.
+- Contextualizando
+    1. Enfatiza a dificuldade de aplicar testes manuais em sistemas mais robustos, tornando o trabalho menos produtivo.
+    2. Introduzindo os testes automatizados como forma mais eficiente no dia a dia do desenvolvedor. 
+- Pirâmide de testes: relação tempo e custo na implementação dos testes
+    1. End to end (E2E): realizados para testar toda a aplicação e interação do usuário, sendo mais complexos e caros.
+    2. Integração: testes complexos e robustos que norteia diferentes partes da aplicação.
+    3. Unidade: execução de uma tarefa, tornando-o mais rápido e barato de implementar.
+    * Testes de análise estática retornam feedback ao desenvolvedor.
+    * Testes de acessibilidade testam o grau de facilidade da aplicação.
+    * Testes de regressão visual expõe qualquer alteração visual por meio de novas funcionalidades.
